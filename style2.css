@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+        
+}
+
+header{
+  
+    position: relative;
+
+}
+
+.logo{
+        margin-top:50px;
+}
+
+li a{
+/* position: absolute; */
+    float: right;
+    display: flex;
+    gap: 9.1rem;
+    /* margin-left:26%; */
+}
